@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Seriy Perekhodchenko](https://up.htmlacademy.ru/htmlcss/23/user/55138).
-* Наставник: `Неизвестно`.
+* Наставник: Ян Северин.
 
 ---
 
